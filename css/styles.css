@@ -8,19 +8,19 @@ hr {
 body{
   color: white;
   font-family:sans-serif;
-  background-color: #393E46;
+  background-color: #2C3333;
 }
 
 h1, h2, h3 {
-  color: #AAD8D3;
+  color: #395B64;
 }
 
 a{
-  color: #EEEEEE;
+  color: #E7F6F2;
   font-weight: bold;
   text-decoration: none;
 }:visited{
-  color: #00ADB5;
+  color: #A5C9CA;
   font-weight: bold;
   text-decoration: none;
 }
