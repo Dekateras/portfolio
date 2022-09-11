@@ -1,0 +1,11 @@
+hr {
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 5px;
+  width: 3%;
+}
+
+body{
+  color: white;
+  font-family:sans-serif;
+}
