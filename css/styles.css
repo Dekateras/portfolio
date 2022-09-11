@@ -14,3 +14,9 @@ body{
 h1, h2, h3 {
   color: #AAD8D3;
 }
+
+a{
+  color: #EEEEEE;
+}:visited{
+  color: #00ADB5;
+}
