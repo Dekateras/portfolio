@@ -17,10 +17,10 @@ h1, h2, h3 {
 
 a{
   color: #EEEEEE;
-  font-style: normal;
   font-weight: bold;
+  text-decoration: none;
 }:visited{
   color: #00ADB5;
   font-weight: bold;
-  font-style: normal;
+  text-decoration: none;
 }
