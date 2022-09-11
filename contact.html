@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Tom Myers - Contact Me</title>
+  <script src="scripts/basicLinks.js"></script>
+</head>
+
+<body onload="loadLinks()">
+  <h1>Contact Me:</h1>
+  <hr>
+  <p><strong>Address: </strong>72 Fake Street, Nowhere  </p>
+  <p><strong>Email: </strong>thomasm@example.com</p>
+  <p><strong>Mobile: </strong>0412 345 678</p>
+
+  <h3>Send me a message</h3>
+
+  <form action="mailto:thomasm229@hotmail.com" method="post">
+    <table>
+      <tr>
+        <td><label for="name">Your name: </label></td>
+        <td><input type="text" name="name" value=""></td>
+      </tr>
+      <tr>
+        <td><label for="email">Your email address: </label></td>
+        <td><input type="email" name="email" value=""></td>
+      </tr>
+      <tr>
+        <td colspan="2"><label for="message">Message</label> </td>
+      </tr>
+      <tr>
+        <td colspan="2"><textarea name="message" rows="8" cols="40"></textarea> </td>
+      </tr>
+      <tr>
+        <td><input type="submit" name="submitBtn" value="Submit"></td>
+      </tr>
+    </table>
+    <br>
+  </form>
+
+  <p id='links'>
+
+  </p>
+</body>
+
+</html>
