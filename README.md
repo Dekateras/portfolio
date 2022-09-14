@@ -1,3 +1,3 @@
 # Personal portfolio (currently a work in progress)
 
-## Currently working through the complete 2022 web development course on Udemy, this site is a product of that course
+Working through The Complete 2022 Web Development Bootcamp course on Udemy, course prvided by AppBrewery
